@@ -1,10 +1,15 @@
 Análise de Dados de Logística
 
 O Dashboard precisava mostrar os seguintes KPIsde Logística:
+
 1-Total de Entregas no Prazo Por Canal de Entrega
+
 2-Percentual de Entregas Antecipadas Por Equipede Entrega
+
 3-Total de Entregas Por Mês
+
 4-Total de Entregas de Produtos dos Top5 Vendedores
+
 5-Total de Entregas com Atraso Por Cidade6-Percentual de Entregas Por Status de Entrega
 
 
